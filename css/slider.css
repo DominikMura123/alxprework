@@ -42,3 +42,11 @@
     border: 1px solid black;
     box-shadow: none;
   }
+  
+  .d-none {
+    display: none;
+  }
+  
+  .active {
+    display: block;
+  }
