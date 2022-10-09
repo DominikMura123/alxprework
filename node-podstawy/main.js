@@ -27,7 +27,6 @@ const shopping = [
   });
   console.log(`${suma}`);
 
-
   suma =0;
   const eSign = shopping.filter(el =>{
     return el.name.includes('e');
